@@ -5,7 +5,7 @@
 
 1. Create a new virtual environment
 ```bash
-conda create -n assistant python=3.7
+conda create -n assistant python=3.8
 ```
 
 2. Checkout the created virtual environment
