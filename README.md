@@ -31,6 +31,3 @@ pip list
 pip install -r requirements.txt
 
 ```
-
-
-AIzaSyA7dtVBKkqzZF7aHcSpt9hBtxxqC4htOmQ
